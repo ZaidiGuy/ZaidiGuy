@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZaidiGuy
-- 👀 I’m interested in ...hacking
-- 🌱 I’m currently learning ...ethical hacking
+- 👀 I’m interested in ...hacking and Coding
+- 🌱 I’m currently learning ...Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...syedsaimzaidi774@gmail.com
 
